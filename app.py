@@ -48,7 +48,7 @@ REKOMENDASI
 """
 
 model = genai.GenerativeModel(
-    model_name="gemini-3.1-pro-preview",
+    model_name="gemini-3-flash-preview",
     system_instruction=system_instruction
 )
 
