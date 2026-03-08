@@ -22,7 +22,7 @@ if not check_password():
 
 # --- 2. KONFIGURASI AI ---
 # Masukkan API Key Anda di sini
-genai.configure(api_key="AIzaSyD4fc5WGAE9sZpohrFcng8Mves5H8mPH0w")
+genai.configure(api_key="AIzaSyA9r3p8Gv9MR5qyYkbPEPeY86F-FJO0Nuo")
 
 # Salin System Instruction Panjang dari AI Studio (AY MACANDEMAK) ke sini
 system_instruction = """
